@@ -4,7 +4,7 @@
 
 <div align="center">
    <img width="233" src="https://s1.ax1x.com/2020/09/26/0PtZCD.png" alt="logo"></br>
-`mirai`是一个在全平台下运行，提供`QQ Android`协议支持的高效率机器人库
+mirai 是一个在全平台下运行，提供 QQ Android 协议支持的高效率机器人库
 
 这个项目的名字来源于
      <p><a href = "http://www.kyotoanimation.co.jp/">京都动画</a>作品<a href = "https://zh.moegirl.org/zh-hans/%E5%A2%83%E7%95%8C%E7%9A%84%E5%BD%BC%E6%96%B9">《境界的彼方》</a>的<a href = "https://zh.moegirl.org/zh-hans/%E6%A0%97%E5%B1%B1%E6%9C%AA%E6%9D%A5">栗山未来(Kuriyama <b>mirai</b>)</a></p>
@@ -18,7 +18,7 @@
 
 ## 故事
 
-2019年的体育节，为了实现一个突然产生的qq点歌想法，仅仅用了一个周末的亚子，基于[酷Q](https://github.com/richardchien/coolq-http-api)的QQ机器人就被搭建了起来。当时这玩意儿是用`docker`里的`Wine`模拟`Tim`的解决方案，通过一个`Vnc`远程桌面即可操控。点歌接收程序用`Python`的网络编程草草写了一个出来，再配合`Mysql`、`PHP`和`HTML`进行审核、播放和歌曲展示。虽然中途也出现了一些技术问题上的小插曲，但直到结束，一共接收了近`1000`首歌，发送信息`5000`条左右。应该也算是很辉煌的战绩了吧。
+2019年的体育节，为了实现一个突然产生的QQ点歌想法，仅仅用了一个周末的亚子，基于[酷Q](https://github.com/richardchien/coolq-http-api)的QQ机器人就被搭建了起来。当时这玩意儿是用`docker`里的`wine`模拟`Tim`的解决方案，通过一个`Vnc`远程桌面即可操控。点歌接收程序用`Python`的网络编程草草写了一个出来，再配合`Mysql`、`PHP`和`HTML`进行审核、播放和歌曲展示。虽然中途也出现了一些技术问题上的小插曲，但直到结束，一共接收了近`1000`首歌，发送信息`5000`条左右。应该也算是很辉煌的战绩了吧。
 
 后来，QQ机器人被配合用作「时光信笺」。
 
