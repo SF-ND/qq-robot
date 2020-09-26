@@ -1,0 +1,1 @@
+java -jar cqhttp-mirai-0.2.3-embedded-all.jar --account QQ号 --password 密码
